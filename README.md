@@ -4,28 +4,6 @@
 Simple Script Menfess Telegram Bot
 
 
-<p align="center">
-<a href="https://github.com/GarzProject/MenfessTelegramBot/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/GarzProject/MenfessTelegramBot?style=flat&logo=github&color=yellow" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/GarzProject/MenfessTelegramBot" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/GarzProject/MenfessTelegramBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/GarzProject/MenfessTelegramBot" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/GarzProject/MenfessTelegramBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/GarzProject/MenfessTelegramBot?color=success" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/GarzProject/MenfessTelegramBot?style=flat&logo=github&color=red" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/GarzProject/MenfessTelegramBot?style=flat&logo=github&color=success" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/GarzProject/MenfessTelegramBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/GarzProject/MenfessTelegramBot" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/GarzProject/MenfessTelegramBot?style=flat&logo=github&color=success" /> </a>
-</p>
-<p align="center">
-<a href="" alt="GarzProject"> <img src="https://img.shields.io/badge/built%20by-GarzProject-blue" /> </a>
-<a href="https://github.com/GarzProject/MenfessTelegramBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
-</p>
-
-
 
 
 edit file .env terlebih dahulu
